@@ -643,6 +643,16 @@ export default [
         creator: "NishiOwO",
         isGitHub: true,
     },
+    {
+        name: "Penguibot",
+        description: "Chat with AI, generate images, customize personalities, and give your projects persistent memory.",
+        code: "mmangaming999/penguibot.js",
+        banner: "mmangaming999/penguibot.png",
+        creator: "mmangaming999",
+        documentation: "penguibot",
+        tags: ["ai", "chat", "images"],
+        isGitHub: true,
+    },
     /*{
         name: "PenguinAI",
         description: "Talk to AI! Use Models like DALL-E-3, GPT, LLama, Claude, and more!",
